@@ -30,8 +30,8 @@ Interactive API documentation is available at:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/product-management-system.git
-   cd product-management-system
+   git clone https://github.com/ILLnar-Nizami/webstore_product_project.git
+   cd webstore_product_project
    ```
 
 2. Create and activate a virtual environment:
