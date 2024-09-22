@@ -68,24 +68,44 @@ Interactive API documentation is available at:
 
 ## Project Structure
 product_project/
+
+
 ├── manage.py
+
 ├── product_project/
+
 │ ├── init.py
+
 │ ├── settings.py
+
 │ ├── urls.py
+
 │ └── wsgi.py
+
 ├── product_api/
+
 │ ├── init.py
+
 │ ├── admin.py
+
 │ ├── apps.py
+
 │ ├── models.py
+
 │ ├── serializers.py
+
 │ ├── tests.py
+
 │ ├── urls.py
+
 │ └── views.py
+
 ├── templates/
+
 │ └── product_api/
+
 │ └── product_page.html
+
 └── requirements.txt
 
 ## Testing
